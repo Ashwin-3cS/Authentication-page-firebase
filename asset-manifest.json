@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Authentication-page-firebase/static/css/main.bee4ca37.css",
+    "main.js": "/Authentication-page-firebase/static/js/main.3dc9e0d8.js",
+    "index.html": "/Authentication-page-firebase/index.html",
+    "main.bee4ca37.css.map": "/Authentication-page-firebase/static/css/main.bee4ca37.css.map",
+    "main.3dc9e0d8.js.map": "/Authentication-page-firebase/static/js/main.3dc9e0d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee4ca37.css",
+    "static/js/main.3dc9e0d8.js"
+  ]
+}
